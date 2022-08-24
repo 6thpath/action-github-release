@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/6thpath/action-github-release/actions">
-    <img src="https://github.com/6thpath/action-github-release/workflows/Main/badge.svg"/>
+    <img src="https://github.com/6thpath/action-github-release/workflows/Publish/badge.svg"/>
  </a>
 </div>
 
