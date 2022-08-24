@@ -1,5 +1,4 @@
-# https://help.github.com/en/articles/metadata-syntax-for-github-actions
-name: "Create Github Release"
+name: "6thpath/action-github-release"
 author: "6thpath"
 description: "Github Action for creating Github Releases"
 
